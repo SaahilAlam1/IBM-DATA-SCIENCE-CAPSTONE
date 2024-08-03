@@ -9,7 +9,7 @@ Explore:
 
 Executive Summary:
   Methodologies:
-    Data collected through web scraping and using SpaceX REST API 
+  Data collected through web scraping and using SpaceX REST API 
     Performed data wrangling to created successful/fail outcome variable
     Carried out exploratory data analysis using SQL and data visualization
     Built a dashboard visualizing launch sites with the most success and successful payload ranges
